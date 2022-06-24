@@ -1,4 +1,6 @@
 # compute_node_clustering
+---
+Launch executable version of this notebook using Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EUxNKGWhHbPNOtsWExg5-TmDt78m0R5N?usp=sharing)
 
 Author : Adithya Vikram Raj Garoju 📧
 
@@ -29,7 +31,3 @@ Date: 10th May 2022 📅
       * Also GMM would do but we need to choose n_components all the time which is not relevant at this point of time.
       * We can utilize the warm_start param and update our model with new set of log data to prevent our model from getting stale. 
       (Also catching up with moore's law 😉)
-
-
-
-Launch executable version of this notebook using Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EUxNKGWhHbPNOtsWExg5-TmDt78m0R5N?usp=sharing)
